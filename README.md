@@ -5,7 +5,6 @@
 
 If you are also interested in solving computational problems in the field of Machine learning and DataAnalysis, I would more than happy to collborate!!
 - Cheers!
-- 
 
 <!---
 saiyedduri97/saiyedduri97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
