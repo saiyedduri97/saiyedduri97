@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Pavan Kumar Yedduri
+- 👋 Hi, I’m Sai Pavan Kumar
 - 👀 I’m interested in solving and collaborating on real-world problems using computational techniques
 - 📫 How to reach me saiyeddurihyderabad@gmail.com
 
